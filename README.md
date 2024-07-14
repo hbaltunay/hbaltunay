@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1> 
 
 
-I’m an engineer student who is developing himself in the field of Machine Learning.
+I'm a engineer who develops himself in the field of artificial intelligence.
 
 
 ## 👀 I’m interested in ...
